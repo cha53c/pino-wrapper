@@ -1,0 +1,26 @@
+{
+  "name": "@chris.chase/pino-wrapper",
+  "version": "1.0.0",
+  "description": "wraps pino logger to configure with env variables",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cha53c/pino-wrapper.git"
+  },
+  "keywords": [
+    "pino",
+    "logger"
+  ],
+  "author": "Chris Chase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cha53c/pino-wrapper/issues"
+  },
+  "homepage": "https://github.com/cha53c/pino-wrapper#readme",
+  "dependencies": {
+    "pino": "^8.14.1"
+  }
+}
